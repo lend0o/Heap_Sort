@@ -1,1 +1,1 @@
-# Heap_Sort
+Improved heap sort algorithm implementation in C.
